@@ -1,14 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "A single-loop proximal subgradient algorithm for a class structured fractional programs."
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+permalink: /publication/2025-07-14-paper-title-number-1
+excerpt: 'In this paper, we investigate a class of nonconvex and nonsmooth fractional programming problems, where the numerator composed of two parts: a convex, nonsmooth function and a differentiable, nonconvex function, and the denominator consists of a convex, nonsmooth function composed of a linear operator. These structured fractional programming problems have broad applications, including CT reconstruction, sparse signal recovery, the single-period optimal portfolio selection problem and standard Sharpe ratio minimization problem. We develop a single-loop proximal subgradient algorithm that alleviates computational complexity by decoupling the evaluation of the linear operator from the nonsmooth component. We prove the global convergence of the proposed single-loop algorithm to an exact lifted stationary point under the Kurdyka-Łojasiewicz assumption. Additionally, we present a practical variant incorporating a nonmonotone line search to improve computational efficiency. Finally, through extensive numerical simulations, we showcase the superiority of the proposed approach over the existing state-of-the-art methods for three applications: L_{1}/S_{\kappa} sparse signal recovery, limited-angle CT reconstruction, and optimal portfolio selection.'
+date: 2025-07-14
 venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Deren Han, Min Tao, Zihao Xia. (2025). &quot;A Single-loop Proximal Subgradient Algorithm for A Class Structured Fractional Programs.&quot; <i>J. Sci. Comput.</i>. 104(3), Paper No. 75, 27.'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
