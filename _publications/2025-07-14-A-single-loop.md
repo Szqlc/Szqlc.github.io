@@ -2,7 +2,7 @@
 title: "A single-loop proximal subgradient algorithm for a class structured fractional programs."
 collection: publications
 category: manuscripts
-permalink: /publication/2025-07-14-paper-title-number-1
+permalink: /publication/2025-07-14-A-single-loop
 excerpt: 'In this paper, we investigate a class of nonconvex and nonsmooth fractional programming problems, where the numerator composed of two parts: a convex, nonsmooth function and a differentiable, nonconvex function, and the denominator consists of a convex, nonsmooth function composed of a linear operator. These structured fractional programming problems have broad applications, including CT reconstruction, sparse signal recovery, the single-period optimal portfolio selection problem and standard Sharpe ratio minimization problem. We develop a single-loop proximal subgradient algorithm that alleviates computational complexity by decoupling the evaluation of the linear operator from the nonsmooth component. We prove the global convergence of the proposed single-loop algorithm to an exact lifted stationary point under the Kurdyka-Łojasiewicz assumption. Additionally, we present a practical variant incorporating a nonmonotone line search to improve computational efficiency. Finally, through extensive numerical simulations, we showcase the superiority of the proposed approach over the existing state-of-the-art methods for three applications: L_{1}/S_{\kappa} sparse signal recovery, limited-angle CT reconstruction, and optimal portfolio selection.'
 date: 2025-07-14
 venue: 'J. Sci. Comput.'
