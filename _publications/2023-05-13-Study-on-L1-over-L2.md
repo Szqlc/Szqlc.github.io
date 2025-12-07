@@ -8,7 +8,7 @@ excerpt: 'In this paper, we carry out a comprehensive study for the unconstraine
 date: 2023-05-13
 venue: 'J. Sci. Comput.'
 paperurl: 'https://link.springer.com/article/10.1007/s10915-023-02225-2'
-citation: 'Min Tao and Xiao-ping Zhang, <i>Study on L_1 over L_2 Minimization for Nonnegative Signal Recovery</i>, J. Sci. Comput., 95(2015), pp. 94.'
+citation: 'Min Tao and Xiao-ping Zhang, <i>Study on L_1 over L_2 Minimization for Nonnegative Signal Recovery</i>, J. Sci. Comput., 95(2023), pp. 94.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
