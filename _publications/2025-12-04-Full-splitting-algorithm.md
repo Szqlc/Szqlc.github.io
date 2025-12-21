@@ -7,7 +7,7 @@ excerpt: 'In this paper, we consider a class of nonconvex and nonsmooth fraction
 date: 2025-12-04
 venue: 'SIAM J. Optim.'
 paperurl: '[https://epubs.siam.org/doi/full/10.1137/23M1626591](https://epubs.siam.org/doi/full/10.1137/23M1626591)'
-citation: 'Radu I. Bot, Guoyin Li and Min Tao Xia., <i>On partial smoothness, activity identification and faster algorithms of L1 over L2 minimization</i>, SIAM J. Optim. 35 (2010), pp. 2874-2889.'
+citation: 'Radu I Boţ, Guoyin Li and Min Tao, <i>Full Splitting Algorithms for Fractional Programs with Structured Numerators and Denominators</i>, SIAM J. Optim. 35 (2025), pp. 2623-2653.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
