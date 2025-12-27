@@ -1,6 +1,6 @@
 ---
 title: 'Codes of recent works'
-date: 2022-01-01
+date: 2025-12-21
 permalink: /posts/2012/08/blog-post-4/
 tags:
   - cool posts
