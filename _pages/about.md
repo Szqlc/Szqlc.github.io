@@ -8,6 +8,7 @@ redirect_from:
 ---
 Short Bio
 ======
+- Tao Min's primary research interests lie in the theory and applications of optimization algorithms, with a particular focus on first-order methods and their applications in machine learning. Her representative works have been published in leading journals such as the SIAM Journal on Optimization, SIAM Journal on Scientific Computing, SIAM Journal on Imaging Sciences, Mathematics of Computation, and the Journal of Scientific Computing, as well as in the premier computer science conference NeurIPS (formerly NIPS).She has received several notable honors, including the Outstanding Young Paper Award from the Chinese Society for Computational Mathematics (2011), recognition as an Outstanding Ph.D. Graduate of Jiangsu Province, and the Best Paper Award at the International Congress of Chinese Mathematicians (2017). Several of her publications are highly cited, with one recognized as a "Hot Paper" in the Chinese scientific community.Dr. Tao has led multiple research projects funded by the National Natural Science Foundation of China, including both Youth and General Programs, as well as a General Project funded by Jiangsu Province. 
 - Office: Room 1108-3，Mengminwei Building
 - Address: West Building of Gulou Campus, 22 Hankou Road, Nanjing, China
 - Email: taom[AT]nju.edu.cn
