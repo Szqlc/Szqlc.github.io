@@ -8,7 +8,7 @@ tags:
   - category2
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
+She has received several notable honors, including the Outstanding Young Paper Award from the Chinese Society for Computational Mathematics (2011), recognition as an Outstanding Ph.D. Graduate of Jiangsu Province, and the Best Paper Award at the International Congress of Chinese Mathematicians (2017). Several of her publications are highly cited, with one recognized as a "Hot Paper" in the Chinese scientific community.Dr. Tao has led multiple research projects funded by the National Natural Science Foundation of China, including both Youth and General Programs, as well as a General Project funded by Jiangsu Province.
 
 Headings are cool
 ======
