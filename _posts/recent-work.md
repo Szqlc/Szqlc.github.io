@@ -1,7 +1,7 @@
 ---
 title: 'Codes of recent works'
 date: 2025-12-21
-permalink: /miscellaneous/recent-work
+permalink: /posts/recent-work
 tags:
   - cool posts
   - category1
