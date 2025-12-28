@@ -3,18 +3,17 @@ title: 'Memberships & Editorial'
 date: 2025-11-21
 permalink: /posts/2025/11/blog-post-3/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - membership
+  - editorial
 ---
-
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
-
-Headings are cool
+Memberships
 ======
+* Council Member of the Mathematical Programming Society of the Operations Research Society of China 
+* Invited Reviewer of the American Mathematical Society (AMS)
 
-You can have many headings
+Editorial
 ======
+* SIAM Journal on Scientific Computing
+* SIAM Journal on Optimization 
 
-Aren't headings cool?
 ------
