@@ -3,11 +3,8 @@ title: 'Student Development'
 date: 2024-12-01
 permalink: /posts/2024/12/blog-post-1/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - student development
 ---
-坚持授人以鱼不如授人以渔的理念，分析证明侧重逆向思维的培养。
 
 PhD student
 ======
